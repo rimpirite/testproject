@@ -14,7 +14,7 @@ public class cd {
 	   }
 	
 	//instance variables can have access modifiers(like private, public, protected etc.),
-	//but local variables will not have any access modifiers.
+	//but local variables will not have any access modifiers..
 	
 	cd(String name, String street)
 	{
